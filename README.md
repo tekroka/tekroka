@@ -1,4 +1,4 @@
-# NAMASTE I AM TEk ROKA
+# NAMASTE 🙏, I AM TEK ROKA
 #### I am a Graphic Designer
 ![I am a Graphic Designer](https://pbs.twimg.com/profile_banners/1223608734942998529/1659785060/1500x500)
 
