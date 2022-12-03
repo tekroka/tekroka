@@ -1,27 +1,21 @@
 <h1 align="center">NAMASTE 🙏, I'M TEK ROKA</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tekroka&label=Profile%20views&color=0e75b6&style=flat" alt="tekroka" /> </p>
-<h5 align="justify">A Creative and detail-oriented graphic designer with exceptional skill level and experience in various mediums, digital design, print design, color separation and preparing film for screen printing. Highly adept with programs, such as InDesign, Photoshop, Illustrator, MS office, inkseps. Seeking a suitable position where my past experience and knowledge would be fully utilized in a career opportunity and to reach great heights. As a self motivated person, I do have the intension to serve any esteemed organization with utmost sincerity that offers challenges to accomplish missions to achieve set goals with optimum perfections on the way to build up a career as a professional based on my 3 years of experience in U.A.E. and 4+ Years of experience in Nepal.</h5>
+#### I am a Graphic Designer
+![I am a Graphic Designer](https://pbs.twimg.com/profile_banners/1223608734942998529/1659785060/1500x500)
+
+Creative and detail-oriented graphic designer with exceptional skill level and experience in various mediums, digital design, print design, color separation and preparing film for screen printing. Highly adept with programs, such as InDesign, Photoshop, Illustrator, MS office, inkseps. Seeking a suitable position where my past experience and knowledge would be fully utilized in a career opportunity and to reach great heights. As a self motivated person, I do have the intension to serve any esteemed organization with utmost sincerity that offers challenges to accomplish missions to achieve set goals with optimum perfections on the way to build up a career as a professional based on my 3 years of experience in U.A.E. and 4+ Years of experience in Nepal.
+
+Skills: PHOTOSHOP | INDESIGN | ILLUSTRATOR | HTML | CSS | WORDPRESS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning : JS | JAVA | C | C# | C++ | PYTHON 
+- 📫 How to reach me: contact@teekrc.com.np 
+- ⚡ Fun fact: I am "POSITIVE" 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tekroka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tekroka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thisisteekrc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thisisteekrc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/theteekroka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.teekrc.com.np)  
 
-- 🌱 I’m currently learning **Java,JS, C, C#, C++**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tekroka&show_icons=true)  
 
-- 👨‍💻 All of my projects are available at [www.teekrc.com.np](www.teekrc.com.np)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=tekroka)  
 
-- 💬 Ask me about **Print/Digital Design**
-
-- 📫 How to reach me **contact@teekrc.com.np**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/theteekrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theteekrc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tekroka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tekroka" height="30" width="40" /></a>
-<a href="https://www.behance.net/tekroka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tekroka" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/tekroka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tekroka" /></a></p><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tekroka&" alt="tekroka" /></p>
+![Profile views](https://gpvc.arturio.dev/tekroka)  
