@@ -1,4 +1,4 @@
-<h1 align="center">NAMASTE 🙏, I'M TEK ROKA</h1>
+### Hi there 👋, I'm TEK ROKA
 #### I am a Graphic Designer
 ![I am a Graphic Designer](https://pbs.twimg.com/profile_banners/1223608734942998529/1659785060/1500x500)
 
