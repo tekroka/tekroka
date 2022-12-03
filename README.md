@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekroka&label=Profile%20views&color=0e75b6&style=flat" alt="tekroka" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thisisteekrc" target="blank"><img src="https://img.shields.io/twitter/follow/thisisteekrc?logo=twitter&style=for-the-badge" alt="thisisteekrc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekroka" alt="tekroka" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/theteekrc" target="blank"><img src="https://img.shields.io/twitter/follow/theteekrc?logo=twitter&style=for-the-badge" alt="theteekrc" /></a> </p>
 
 - 🔭 I’m currently working on [News Portal](www.newskot.com)
 
@@ -17,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thisisteekrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisteekrc" height="30" width="40" /></a>
+<a href="https://twitter.com/theteekrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theteekrc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tekroka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tekroka" height="30" width="40" /></a>
 <a href="https://fb.com/thisisteekrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thisisteekrc" height="30" width="40" /></a>
 <a href="https://instagram.com/thisisteekrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisteekrc" height="30" width="40" /></a>
@@ -33,3 +35,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tekroka&show_icons=true&locale=en&layout=compact" alt="tekroka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tekroka&show_icons=true&locale=en" alt="tekroka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tekroka&" alt="tekroka" /></p>
