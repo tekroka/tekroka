@@ -1,7 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tekroka&label=Profile%20views&color=0e75b6&style=flat" alt="tekroka" /> </p>
 <h1 align="center">NAMASTE 🙏, I'M TEK ROKA</h1>
 <h5 align="justify">A Creative and detail-oriented graphic designer with exceptional skill level and experience in various mediums, digital design, print design, color separation and preparing film for screen printing. Highly adept with programs, such as InDesign, Photoshop, Illustrator, MS office, inkseps. Seeking a suitable position where my past experience and knowledge would be fully utilized in a career opportunity and to reach great heights. As a self motivated person, I do have the intension to serve any esteemed organization with utmost sincerity that offers challenges to accomplish missions to achieve set goals with optimum perfections on the way to build up a career as a professional based on my 3 years of experience in U.A.E. and 4+ Years of experience in Nepal.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tekroka&label=Profile%20views&color=0e75b6&style=flat" alt="tekroka" /> </p>
 <p align="left"> <a href="https://twitter.com/theteekrc" target="blank"><img src="https://img.shields.io/twitter/follow/theteekrc?logo=twitter&style=for-the-badge" alt="theteekrc" /></a> </p>
 
 - 🌱 I’m currently learning **Java,JS, C, C#, C++**
